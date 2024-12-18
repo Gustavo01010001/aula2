@@ -1,0 +1,21 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "aula",
+  "homepage": "https://github.com/Gustavo01010001/aula2#readme",
+  "bugs": {
+    "url": "https://github.com/Gustavo01010001/aula2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo01010001/aula2.git"
+  },
+  "license": "ISC",
+  "author": "gustavo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
